@@ -23,7 +23,6 @@ Installation
 Installation instructions for the CLI
 [installation](docs/installation.md) document.
 
-
 ### Configuration 
 
 This repository does not need any specific configuration.
@@ -33,7 +32,6 @@ This repository does not need any specific configuration.
 Other than the installation documentation, no specific documentation is needed.
 The [using](https://github.com/dotse/zonemaster/blob/master/docs/using.md)
 document provides an overview on how to use the CLI. 
-
 
 ### Participation
 
